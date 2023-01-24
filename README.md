@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Our live demo can be found on
+> Our live demo can be found on 
 
 - [Live Demo Link](https://talha-hanif5666.github.io/Todo-list-new/dist/)
 
