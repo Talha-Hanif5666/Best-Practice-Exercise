@@ -6,7 +6,6 @@ const reload = document.querySelector('.fa-arrows-rotate');
 const completed = false; let
   index = 1;
 let listArr = [];
-
 const showTasks = () => {
   const storedData = localStorage.getItem('data');
   if (storedData === null) {
